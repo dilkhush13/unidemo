@@ -1,0 +1,19 @@
+{
+  "name": "unidemo",
+  "version": "1.0.1",
+  "description": "Universal Informatics Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilkhush13/unidemo.git"
+  },
+  "author": "Ritesh Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dilkhush13/unidemo/issues"
+  },
+  "homepage": "https://github.com/dilkhush13/unidemo#readme"
+}
